@@ -1,16 +1,16 @@
 @font-face {
     font-family: Marvel;
-    src: url(avengero-disassembled-font/AvengeroDisassembledRegular-nRvd4.ttf);
+    src: url(assets/avengero-disassembled-font/AvengeroDisassembledRegular-nRvd4.ttf);
 }
 
 @font-face {
     font-family: HarryPotter;
-    src: url(harry_p/HARRYP__.TTF);
+    src: url(assets/harry_p/HARRYP__.TTF);
 }
 
 @font-face {
     font-family: Ayflix;
-    src: url(bebas-neue/BebasNeue.otf);
+    src: url(assets/bebas-neue/BebasNeue.otf);
 }
 
 /* Global Styles */
